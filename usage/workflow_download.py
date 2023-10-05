@@ -13,13 +13,6 @@ jm_albums = '''
 
 '''
 
-# 单独下载章节
-jm_photos = '''
-
-
-'''
-
-
 def get_id_set(env_name):
     aid_set = set()
     for text in [
